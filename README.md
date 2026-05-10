@@ -37,7 +37,27 @@ An AI-powered phishing website detection system developed using Machine Learning
 ```bash
 pip install -r requirements.txt
 
+```
+
 ## Run Project
 
 ```bash
 python app.py
+
+```
+
+## Demo
+
+![Demo](screenshots/demo1.png)
+![Demo](screenshots/demo2.png)
+![Demo](screenshots/demo3.png)
+
+## Classification Report 
+
+![Demo](screenshots/classification_report.png)
+
+
+## Confusion Matrix
+
+![Demo](screenshots/confusion_matrix.png)
+
