@@ -1,0 +1,40 @@
+body{
+    background:#111827;
+    color:white;
+    font-family:Arial;
+    text-align:center;
+    padding-top:80px;
+}
+
+.container{
+    width:60%;
+    margin:auto;
+}
+
+h1{
+    margin-bottom:30px;
+}
+
+input{
+    width:70%;
+    padding:14px;
+    border:none;
+    border-radius:8px;
+    font-size:16px;
+}
+
+button{
+    padding:14px 22px;
+    border:none;
+    border-radius:8px;
+    cursor:pointer;
+    font-size:16px;
+    margin-left:10px;
+}
+
+.result{
+    margin-top:40px;
+    background:#1f2937;
+    padding:20px;
+    border-radius:10px;
+}
